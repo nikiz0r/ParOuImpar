@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ParOuImpar</string>
+    <string name="player">Player</string>
+    <string name="idade">Idade</string>
+    <string name="sexo">Sexo</string>
+    <string name="jogar">Jogar</string>
+    <string name="sexo_m">Masculino</string>
+    <string name="sexo_f">Feminino</string>
+    <string name="sua_jogada">Sua Jogada</string>
+    <string name="par">Par</string>
+    <string name="impar">Impar</string>
+    <string name="jogada_do_adversario">Jogada do adversario</string>
+</resources>

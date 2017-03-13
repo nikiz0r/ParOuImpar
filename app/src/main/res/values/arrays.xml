@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_sexo">
+        <item>@string/sexo_m</item>
+        <item>@string/sexo_f</item>
+    </string-array>
+</resources>
